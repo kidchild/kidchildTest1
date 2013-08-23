@@ -4,3 +4,4 @@ alert(11111);
 function(){
 	"use strict"
 }
+ssdfsdf
